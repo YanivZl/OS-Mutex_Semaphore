@@ -1,5 +1,5 @@
 # OS-Mutex_Semaphore
-Implementation of Mutex, Semaphore and Reader &amp; Writer Lock for Operation System course task.
+Implementation of Mutex, Semaphore and Reader &amp; Writer Lock in C language for Operation System course task.
 
    Mutex: 
     
